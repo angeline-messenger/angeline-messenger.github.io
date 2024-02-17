@@ -9,7 +9,7 @@ html {
 /* Classes and IDs */
 
 .center {
-	height: 160rem;
+	height: 480px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
