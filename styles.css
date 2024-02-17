@@ -23,6 +23,7 @@ img {
 }
 
 .content {
+	height: 100%;
 	padding: 48px;
 	display: block;
 	background-color: #ffffffff;
