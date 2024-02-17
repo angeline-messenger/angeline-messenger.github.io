@@ -15,6 +15,7 @@ html {
 }
 
 .content {
+	padding: 32px;
 	display: block;
 	border: 4px double #000000ff;
 
