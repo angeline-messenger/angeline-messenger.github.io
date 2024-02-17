@@ -5,10 +5,12 @@ html {
 	font-family: Georgia, serif;
 }
 
+h1 { margin: 0; }
+
 /* Classes and IDs */
 
 .center {
-	height: 100vh;
+	height: 84vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
