@@ -4,7 +4,7 @@ html {
 	overflow-y: hidden;
 	text-align: center;
 	font-family: Georgia, serif;
-	background: url("Paradiso_Canto_31.jpg") center 42%/cover no-repeat;
+	background: url("Paradiso_Canto_31.jpg") center center/cover no-repeat;
 }
 
 a { color: #000000ff; }
@@ -19,7 +19,7 @@ img {
 /* Classes and IDs */
 
 .center {
-	height: 84vh;
+	height: 100vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
