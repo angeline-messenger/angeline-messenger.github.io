@@ -5,3 +5,11 @@ html {
 	vertical-align: center;
 	font-family: Georgia, serif;
 }
+
+/* Classes and IDs */
+
+.center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
