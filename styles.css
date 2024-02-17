@@ -23,9 +23,7 @@ img {
 }
 
 .content {
-	height: 100%;
 	padding: 48px;
 	display: block;
-	background-color: #ffffffff;
 	border: 4px double #d3d3d3ff;
 }
