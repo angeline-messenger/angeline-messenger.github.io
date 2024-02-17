@@ -7,7 +7,7 @@ html {
 	background: url("Paradiso_Canto_31.jpg") center 42%/cover no-repeat;
 }
 
-a { color: 000000ff; }
+a { color: #000000ff; }
 
 h1 { margin: 0; }
 
@@ -19,7 +19,7 @@ img {
 /* Classes and IDs */
 
 .center {
-	height: 96vh;
+	height: 84vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -28,6 +28,6 @@ img {
 .content {
 	padding: 48px;
 	display: block;
-	background-color: #ffffffd9;
+	background-color: #ffffffa9;
 	border: 4px double #000000ff;
 }
