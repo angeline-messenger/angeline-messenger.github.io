@@ -8,7 +8,7 @@ html {
 /* Classes and IDs */
 
 .center {
-	height: 640px;
+	height: 240px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
