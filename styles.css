@@ -15,7 +15,7 @@ img {
 /* Classes and IDs */
 
 .center {
-	height: 92vh;
+	height: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
