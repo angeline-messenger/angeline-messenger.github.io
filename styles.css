@@ -8,14 +8,14 @@ html {
 h1 { margin: 0; }
 
 img {
-	width: 16px;
-	height: 16px;
+	width: 32px;
+	height: 32px;
 }
 
 /* Classes and IDs */
 
 .center {
-	height: 100vh;
+	height: 92vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
