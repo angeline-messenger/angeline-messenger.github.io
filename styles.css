@@ -8,11 +8,14 @@ html {
 /* Classes and IDs */
 
 .center {
-	height: 240px;
+	height: 100vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	border: 4px double #000000ff;
 }
 
-.content { display: block; }
+.content {
+	display: block;
+	border: 4px double #000000ff;
+
+}
