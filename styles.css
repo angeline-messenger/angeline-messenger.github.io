@@ -1,6 +1,7 @@
 /* Globals */
 
 html {
+	height: 100%;
 	text-align: center;	
 	font-family: serif;
 	background: url("Paradiso_Canto_31.jpg") center center/cover no-repeat;
