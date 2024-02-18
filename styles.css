@@ -4,7 +4,7 @@ html {
 	text-align: center;	
 	overflow-y: hidden;
 	font-family: serif;
-	background: url("Paradiso_Canto_31.jpg") center 42%/cover no-repeat;
+	background: url("Paradiso_Canto_31.jpg") center center/cover no-repeat;
 }
 
 a { color: #000000ff; }
