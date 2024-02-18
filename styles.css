@@ -21,13 +21,14 @@ img {
 /* Classes and IDs */
 
 .center-vh {
-	position: absolute;
   	top: 50%;
   	left: 50%; 
-  	transform: translate(-50%, -50%);
+  	position: absolute;
+	transform: translate(-50%, -50%);
 }
 
 .content {
+	width: 320px;
 	padding: 40px;
 	display: block;
 	background-color: #ffffffa9;
