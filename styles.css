@@ -7,13 +7,13 @@ html {
 	background: url("Paradiso_Canto_31.jpg") center center/cover no-repeat;
 }
 
-a { color: #000000ff; }
-
 h1 { margin: 0; }
 
-h2 { font-size: 1.2em; }
+a { color: #000000ff; }
 
-hr { margin: 0; }
+b { font-size: 1.2em; }
+
+h2 { font-size: 1.2em; }
 
 img {
 	width: 24px;
