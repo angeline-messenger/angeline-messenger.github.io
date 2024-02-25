@@ -33,5 +33,6 @@ img {
 	width: 320px;
 	padding: 32px;
 	display: block;
+	border-radius: 32px;
 	background-color: #ffffffff;
 }
