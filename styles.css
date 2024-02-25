@@ -3,7 +3,7 @@
 html {
 	height: 100%;
 	text-align: center;	
-	font-family: serif;
+	font-family: Lexend, sans-serif;
 	background: url("Paradiso_Canto_31.jpg") center center/cover no-repeat;
 }
 
@@ -33,6 +33,6 @@ img {
 	width: 320px;
 	padding: 32px;
 	display: block;
-	background-color: #ffffffa9;
+	background-color: #ffffffff;
 	border: 4px double #000000ff;
 }
