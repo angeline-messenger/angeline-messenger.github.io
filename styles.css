@@ -9,10 +9,7 @@ html {
 
 h1 { margin: 0; }
 
-a {
-	color: #000000ff;
-	text-decoration: none;
-}
+a { color: #000000ff; }
 
 b { font-size: 1.48em; }
 
@@ -42,6 +39,8 @@ img {
 }
 
 #logo {
-	width: 128px;
-	height: 128px;
+	width: 96px;
+	height: 96px;
 }
+
+#number { text-decoration: none; }
