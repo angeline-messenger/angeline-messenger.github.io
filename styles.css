@@ -44,9 +44,12 @@ img {
 }
 
 .button {
+	transition: 0.32s;
 	border-radius: 8px;
 	box-shadow: 0px 4px 16px 0px #ffffffa3;
 }
+
+.button:hover { background-color: #ffffffa3; }
 
 #logo {
 	width: 64px;
