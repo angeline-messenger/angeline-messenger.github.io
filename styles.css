@@ -11,14 +11,13 @@ html {
 h1 { margin: 0; }
 
 a {
-	padding: 8px;
 	color: #ffffffff;
 	text-decoration: none;
 }
 
-b { font-size: 1.48em; }
+b { font-size: 1.48rem; }
 
-h2 { font-size: 1.2em; }
+h2 { font-size: 1.2rem; }
 
 img {
 	width: 24px;
@@ -36,7 +35,7 @@ img {
 
 .content {
 	width: 320px;
-	padding: 16px;
+	padding: 32px;
 	display: block;
 	color: #ffffffff;
 	border-radius: 32px;
@@ -44,6 +43,7 @@ img {
 }
 
 .button {
+	padding: 8px;
 	transition: 0.24s;
 	border-radius: 8px;
 	box-shadow: 0px 4px 16px 0px #ffffffa3;
@@ -57,6 +57,6 @@ img {
 }
 
 #number {
-	font-size: 2.4em;
+	font-size: 2.24rem;
 	text-decoration: none;
 }
