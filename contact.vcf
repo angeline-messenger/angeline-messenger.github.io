@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN;CHARSET=UTF-8:AngeLine
-N;CHARSET=UTF-8:;AngeLine;;;
-EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:support@text-angeline.org
+FN:AngeLine
+N:AngeLine;;;;
+EMAIL;TYPE=WORK,INTERNET:support@text-angeline.org
 TEL;TYPE=WORK,VOICE:+18887661494
-ORG;CHARSET=UTF-8:AngeLine
-URL;CHARSET=UTF-8:https://www.text-angeline.org
+ORG:AngeLine
+URL:https://www.text-angeline.org
+PHOTO;VALUE=URI;TYPE=JPEG:https://text-angeline.org/assets/images/angeline-logo.png
 REV:2024-02-22T21:34:04.278Z
 END:VCARD
-
