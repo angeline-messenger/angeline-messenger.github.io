@@ -61,6 +61,8 @@ img {
 	height: 64px;
 }
 
+#title { vertical-align: middle; }
+
 #number {
 	font-size: 2.24rem;
 	text-decoration: none;
