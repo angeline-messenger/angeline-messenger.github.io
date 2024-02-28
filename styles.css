@@ -21,7 +21,7 @@ a {
 
 b { font-size: 1.48rem; }
 
-h2 { font-size: 1.2rem; }
+h2 { border: 2px solid blue; font-size: 1.2rem; }
 
 img {
 	width: 24px;
