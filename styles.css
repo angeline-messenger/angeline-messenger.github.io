@@ -8,7 +8,10 @@ html {
 	background: url("assets/images/clouds.jpg") center center/cover no-repeat;
 }
 
-h1 { margin: 0; }
+h1 {
+	margin: 0;
+	font-family: Ariel, sans-serif;
+}
 
 a {
 	color: #ffffffff;
