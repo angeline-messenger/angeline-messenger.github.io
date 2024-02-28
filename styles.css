@@ -64,7 +64,7 @@ img {
 	height: 64px;
 }
 
-#title > * { border: 2px solid blue; vertical-align: middle; }
+#title > * { vertical-align: middle; }
 
 #number {
 	font-size: 2.24rem;
