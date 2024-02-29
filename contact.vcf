@@ -1,11 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:AngeLine
-N:AngeLine;;;;
-EMAIL;TYPE=WORK,INTERNET:support@text-angeline.org
-TEL;TYPE=WORK,VOICE:+18887661494
 ORG:AngeLine
+N:AngeLine;;;;
 URL:https://text-angeline.org
-PHOTO;VALUE=URI;TYPE=JPEG:https://text-angeline.org/assets/images/angeline-logo.png
-REV:2024-02-22T21:34:04.278Z
+TEL;TYPE=text:+18887661494
+EMAIL:support@text-angeline.org
+PHOTO:https://text-angeline.org/assets/images/angeline-logo.png
 END:VCARD
