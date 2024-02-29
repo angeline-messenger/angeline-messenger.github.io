@@ -5,6 +5,6 @@ ORG:AngeLine
 N:AngeLine;;;;
 URL:https://text-angeline.org
 TEL;TYPE=text:+18887661494
-EMAIL:support@text-angeline.org
-PHOTO:https://text-angeline.org/assets/images/angeline-logo.png
+EMAIL;TYPE=internet:support@text-angeline.org
+PHOTO;TYPE=URL:https://text-angeline.org/assets/images/angeline-logo.png
 END:VCARD
